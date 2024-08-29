@@ -18,6 +18,7 @@ Instructions for using thie repo:
   - Distribute the URL of this branch to instructors
   - **INSTRUCTORS** Make sure you can access the repo; add any class resources you plan to use in the relevant directory. Ensure you can commit, and engage with host if there are permissions problems
   - Ensure that you can access the corresponding learners' repository and set up any learners' resources, set up and test gitautopush etc.
+  - **UPDATE LINKS** in the learners repository to resources like the shared Google Docs, course website, daily schedule etc.
 2. **DURING** the course
   - Keep resources up to date both here and in the learners' repo.
   - Periodically check whether gitautopush is actually pushing into the learne's repo
