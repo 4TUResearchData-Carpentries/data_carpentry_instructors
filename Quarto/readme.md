@@ -1,4 +1,4 @@
-# Introduction to R
+# Quarto
 
 This folder should contant course notes, slides and any informal notes associated with the "Quarto" module of Data Carpentry for Social Sciences.
 
