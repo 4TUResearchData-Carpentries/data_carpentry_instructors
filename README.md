@@ -41,3 +41,8 @@ So please deposit your files and notes here, in the **BRANCH CORRESPONDING TO EA
  - **Target repository URL:** https://github.com/4TUResearchData-Carpentries/data_carpentry_learner
  - **Branch name**: Same as you are using in this repository
  - **Files to update**:  Depends on the particular module you are teaching, but we suggest using the empty log files that have been created in the template repository, or else creating ones with a similar naming scheme if relevant to your teaching.
+
+## Other uses for the Learner repository
+
+Please feel free to add other resources to the Learner repository.  We have "seeded" the template with some of the Posit
+cheat sheets for R, R Markdown and dplyr.  But by all means add other resources you think are useful, and consider in the *post-mortem* meeting whether these should be merged into main for future use.
