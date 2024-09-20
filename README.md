@@ -11,7 +11,7 @@ This repository is intended to hold resources for instructors in the LDEV data c
 The goal is to build up a shared library of resources for both current and future instructors, and minimise the "resource sprawl" that can occur.
 So please deposit your files and notes here, in the **BRANCH CORRESPONDING TO EACH RUN OF THE COURSE**
 
-## Instructions for using thie repo:
+## Instructions for using this repo:
 
 1. **BEFORE** the course
   - **HOST** to create a branch (from *main*) named according to the official Carpentries slug format eg 2025-02-13-TUD
