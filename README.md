@@ -2,11 +2,19 @@
 
 Instructor resources for Data Carpentry workshops
 
-This repository is intended to hold resources for instructors in the LDEV data carpentry workshops, including:
+This repository is one of a pair of repositories aiming to support the running of Data Carpentry courses within the LDEV consortium.
+This repository, "data_carpentry_instructors" contains materials for the use of hosts and instructors, such as:
+
+- Helper notes on good practice / special situations
+- Feedback meeting notes
+- Any other materials that are relevant to instructors, helpers and hosts but not necessarily to learners.
+
+
+To companion repository, "data_carpentry_learners" contains educational materials and resources, such as:
 
 - Presentation slides
 - Curriculum notes
-- Notes on good practice / special situations
+- "gitautopush" type-along logs
 
 The goal is to build up a shared library of resources for both current and future instructors, and minimise the "resource sprawl" that can occur.
 So please deposit your files and notes here, in the **BRANCH CORRESPONDING TO EACH RUN OF THE COURSE**
