@@ -46,8 +46,8 @@ So please deposit your files and notes here, in the **BRANCH CORRESPONDING TO EA
  for Software Carpentries courses at TU Delft. Please note that for Data Carpentries courses, the following target repository details apply:
 
  - **Target repository:** data_carpentry_learner
- - **Target repository URL:** [https://github.com/4TUResearchData-Carpentries/data_carpentry_learners/tree-2024-09-30-ldev-delft](https://github.com/4TUResearchData-Carpentries/data_carpentry_learners/tree/2024-09-30-ldev-delft)
- - **Branch name**: Same as you are using in this repository (2024-09-30-ldev-delft)
+ - **Target repository URL:** [https://github.com/4TUResearchData-Carpentries/data_carpentry_learners/tree-2025-02-10-ldev-leiden](https://github.com/4TUResearchData-Carpentries/data_carpentry_learners/tree/2025-02-10-ldev-leiden)
+ - **Branch name**: Same as you are using in this repository (2025-02-10-ldev-leiden)
  - **Files to update**:  Depends on the particular module you are teaching, but we suggest using the empty log files that have been created in the template repository, or else creating ones with a similar naming scheme if relevant to your teaching.
 
 ## Other uses for the Learner repository
